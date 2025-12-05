@@ -41,8 +41,6 @@ Execute the programs and publish them.
         </header>
         <img src="Screenshot 2025-11-28 113821.png" usemap="#image-map">
 
-
-```
 <map name="image-map">
     <area target="" alt="St.Thomas Mount" title="St.Thomas Mount" href="mount.html" coords="1580,333,55" shape="circle">
     <area target="" alt="Chennai International Airport" title="Chennai International Airport" href="airport.html" coords="1213,477,1306,535,1279,633,1156,634,1122,540" shape="poly">
